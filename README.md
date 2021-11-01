@@ -2,6 +2,11 @@
 
 If Your Downloading This Project Make Sure To Have Python 3.6 Downloaded after That Just Run Main.py And Have Fun
 
+**************
+DISCLAIMER
+
+Make Sure To Download Any Dependcy And Librarys Needed
+
 
 Python 3.6
 ----------
