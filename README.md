@@ -5,7 +5,7 @@ If Your Downloading This Project Make Sure To Have Python 3.6 Downloaded after T
 **************
 DISCLAIMER
 
-Make Sure To Download Any Dependcy And Librarys Needed
+Make Sure To Download Any Dependency And Librarys Needed
 
 
 Python 3.6
